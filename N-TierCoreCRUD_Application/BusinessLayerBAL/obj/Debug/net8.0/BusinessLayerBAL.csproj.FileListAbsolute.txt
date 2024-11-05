@@ -1,0 +1,85 @@
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.deps.json
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.dll
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.pdb
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.AssemblyReference.cache
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfoInputs.cache
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfo.cs
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\Business.DA291574.Up2Date
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.dll
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\refint\BusinessLayerBAL.dll
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Dot Net Core Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\ref\BusinessLayerBAL.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.deps.json
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.AssemblyReference.cache
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfoInputs.cache
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfo.cs
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.CoreCompileInputs.cache
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\Business.DA291574.Up2Date
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\refint\BusinessLayerBAL.dll
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\ConnectNTierCore\BusinessLayerBAL\obj\Debug\net8.0\ref\BusinessLayerBAL.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.deps.json
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.AssemblyReference.cache
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfoInputs.cache
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfo.cs
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.CoreCompileInputs.cache
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\Business.DA291574.Up2Date
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\refint\BusinessLayerBAL.dll
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\ref\BusinessLayerBAL.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.deps.json
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.AssemblyReference.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfoInputs.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfo.cs
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.CoreCompileInputs.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\Business.DA291574.Up2Date
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\refint\BusinessLayerBAL.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\ref\BusinessLayerBAL.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.deps.json
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.AssemblyReference.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfoInputs.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.AssemblyInfo.cs
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.csproj.CoreCompileInputs.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\Business.DA291574.Up2Date
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\refint\BusinessLayerBAL.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\BusinessLayerBAL.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\BusinessLayerBAL\obj\Debug\net8.0\ref\BusinessLayerBAL.dll

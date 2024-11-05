@@ -1,0 +1,57 @@
+﻿@model CommonLayer.Employee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!-- Main container for the details page -->
+<div class="container mt-3">
+    <div class="row">
+        <!-- Page Header -->
+        <h1 class="bg-dark text-white text-center col-12 rounded">Details Employee</h1> <!-- Header for the employee details page with padding -->
+    </div>
+
+    <!-- Table for displaying employee details -->
+    <div class="row">
+        <div class="col-12">
+            <!-- Full-width column for the table -->
+            <table class="table table-bordered border-info table-striped table-sm text-center">
+                <!-- Added table-sm for smaller size -->
+                <tbody>
+                    <!-- Each row represents a field and its corresponding value -->
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Eid)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Eid)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Name)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Name)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Age)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Age)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Address)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Address)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Post)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Post)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>@Html.DisplayNameFor(model => model.Salary)</strong></td>
+                        <td>@Html.DisplayFor(model => model.Salary)</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <!-- Action buttons for editing and going back -->
+            <div class="text-center mt-3">
+                <!-- Centering the action links with margin -->
+                @Html.ActionLink("Edit", "Edit", new { id = Model.Eid }, new { @class = "btn btn-primary btn-sm" }) <!-- Edit link styled as button -->
+                <a asp-action="Index" class="btn btn-secondary btn-sm ml-2">Back to List</a> <!-- Back to List button -->
+            </div>
+        </div>
+    </div>
+</div>

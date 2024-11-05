@@ -1,0 +1,65 @@
+﻿@model CommonLayer.Employee
+
+@{
+    ViewData["Title"] = "Edit Employee";
+    
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <!-- Adjusted column width for a balanced layout -->
+        <div class="card">
+            <!-- Card container for the form -->
+            <div class="card-header bg-dark text-white text-center">
+                <h2>Edit Employee</h2> <!-- Header text -->
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                    <input asp-for="Eid" type="hidden" class="form-control" />
+
+                    <div class="border border-primary rounded p-4 bg-info">
+                        <!-- Colorful div wrapper -->
+                        <table class="table table-bordered">
+                            <!-- Added table-bordered class -->
+                            <tbody>
+                                <tr>
+                                    <td class="text-black text-center"><label asp-for="Name" class="form-label"></label></td>
+                                    <td><input asp-for="Name" class="form-control" /></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-black text-center"><label asp-for="Age" class="form-label"></label></td>
+                                    <td><input asp-for="Age" class="form-control" /></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-black text-center"><label asp-for="Address" class="form-label"></label></td>
+                                    <td><input asp-for="Address" class="form-control" /></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-black text-center"><label asp-for="Post" class="form-label"></label></td>
+                                    <td><input asp-for="Post" class="form-control" /></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-black text-center"><label asp-for="Salary" class="form-label"></label></td>
+                                    <td><input asp-for="Salary" class="form-control" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="text-center mt-4">
+                        <!-- Centered button group with margin -->
+                        <input type="submit" value="Update" class="btn btn-primary me-2" />
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

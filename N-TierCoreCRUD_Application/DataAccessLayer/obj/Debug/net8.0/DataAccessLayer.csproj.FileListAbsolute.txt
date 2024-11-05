@@ -1,0 +1,75 @@
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Dot Net Core Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Final Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Final Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\ConnectNTierCore\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\ConnectNTierCore\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aqils\OneDrive\Desktop\My Projects\N Tier using ADO\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Final Project\N-Tier_CRUD _Operation Using ADO.Net\N-TierCoreCRUD_Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
